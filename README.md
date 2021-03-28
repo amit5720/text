@@ -1,2 +1,3 @@
 # text
-text.reposi
+text repo for git commanad
+
